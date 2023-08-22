@@ -1,0 +1,20 @@
+.desc-div p {
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+.pics {
+  height: 50vh;
+  margin: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+@media (max-width: 600px) {
+  
+  .pics {
+    width: 60vw;
+    height: auto;
+  }
+
+}

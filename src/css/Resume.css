@@ -1,0 +1,20 @@
+.resume_div {
+  width: 30vw;
+  height: 39vw;
+  overflow: hidden;
+  margin-left: 20vw;
+}
+
+.resume_div:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+
+  .resume_div {
+    width: 70vw;
+    height: 89vw;
+    margin-left: 12vw;
+  }
+
+}

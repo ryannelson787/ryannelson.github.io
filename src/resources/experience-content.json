@@ -1,0 +1,27 @@
+{
+  "exp_desc_1": "I was filled with immense excitement when I received an offer for a software engineering internship position for the Summer of 2023. I genuinely looked forward to collaborating with team members and contributing to software projects—both of which I have previous experience in. However, I was devastated to learn that the company had to rescind their offer due to financial constraints, just weeks before the start of the summer.",
+  "exp_desc_2": "I am more motivated than ever to acquire experience as a software engineer. I am confident that I possess the qualities necessary to be a productive team member in software development. My previous experiences serve as a testament to my reliability, enthusiasm, positivity, collaboration skills, and unwavering commitment to maintaining high standards.",
+  "experience": [
+    {
+      "company": "Aqua Surf School",
+      "title": "Surf Camp Counselor",
+      "location": "Manhattan Beach, CA",
+      "duration": "June 2022 - August 2022",
+      "content": "As a surf camp counselor, my job focused on making sure the daily operations of Aqua Surf, a daily surf camp for kids, ran smoothly. This included setting up/packing up the surf boards and other materials, greeting kids and their parents as they were dropped off, coming up with entertaining games to play on the beach, teaching the kids how to stand up on a board to surf, and more. Working at Aqua Surf introduced me to a strong team environment where every counselor had a job to do and relied on the work of each other. I learned a lot about how to work as part of a team dedicated to delivering a successful product each day. The work was exhausting, needless to say, but extremely fulfilling."
+    },
+    {
+      "company": "UCSC CSE Department",
+      "title": "Reader (CSE 103 Spring 2022)",
+      "location": "remote",
+      "duration": "April 2022 - June 2022",
+      "content": "As a reader, my responsibilities included grading weekly homework submissions for students taking CSE 103 during Spring 2022. Each week consisted of grading a subset of roughly 120 students' homework submissions. With three other graders, I would grade roughly 30 assignments, each taking anywhere from 5 to 20 minutes to grade. Doing this, along with a regular academic workload, made me understand better how to manage my time between academic life and other responsibilities in my life."
+    },
+    {
+      "company": "internalDrive Tech.",
+      "title": "Online Private Instructor",
+      "location": "remote",
+      "duration": "May 2021 - September 2021",
+      "content": "As an Online Private Instructor, my job was to deliver hour-long one-on-one tutoring sessions to young students wanting to learn technology. Beforehand, I would develop a plan of instruction for each student for each session. During the lesson, I would do my best to go through the material I prepared while also being flexible and entertaining. Through iD Tech and their website, students and their parents/guardians would book lessions with me directly. I would often be booked for recurring lessons too. I taught Unity/C# Development, Python Development, and Minecraft Game/Level Design. I strived to make my lessons fun, engaging, productive, and positive for both the student and myself."
+    }
+  ]
+}

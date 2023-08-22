@@ -1,0 +1,52 @@
+{
+  "proj_desc": "I strongly believe the best way to learn a skill is to create and work on projects using that skill. My introduction into the technology and programming world began when I wanted to create and build new ideas into reality, far before I had any formal introduction to programming and software development. Much of the knowledge and skills I have accumulated in my career have come from my own personal desires. I am extremely proud of my work and I plan on continuing to find meaningful and engaging projects to work on. Here are some projects outside of academic work that I find important to my development.",
+  "projects": [
+    {
+      "title": "Large Language Models in Serverless Functions",
+      "subtitle": "Researching Solutions to Decrease Startup Time for LLM Serverless Functions",
+      "timeframe": "Summer 2023 - current",
+      "skills": "LLM's, Kubernetes, Knative",
+      "content": "Over the summer of 2023, I joined two PHD students and contributed to their research efforts. The goal of the research is to develop solutions to decrease the 'cost' of starting up a Large Language Model. This cost decrease would allow providers to scale up and down their LLM web services in a fraction of the time it currently takes. I work closely with the two PHD students and listen to their ideas and goals for the research. So far, I have delved into Kubernetes and Knative, and will shortly move into working with Large Language Models."
+    },{
+      "title": "Personal Website Creation",
+      "subtitle": "Releasing a Website to Showcase Myself Professionally",
+      "timeframe": "Summer 2023",
+      "skills": "React, JavaScript, CSS/HTML, GitHub Pages",
+      "content": "Over the summer of 2023, I started development of my own personal website (this one). This project serves multiple goals. First, I want a public page where I can display and advertise myself for my professional life. Second, I want to get better at the necessary steps to making and publishing a website on the internet, starting from working with React to getting a domain and finding a relevant cloud host. Third, I want a place where I can show the progress I am making as a software engineer. Overall, this project is important to me and I am happy I am able to complete it."
+    },
+    {
+      "title": "Neural Network/Generational Training Project",
+      "subtitle": "Creating Deep Neural Networks, Training them in Generations, and Testing their Performance on a Race Track",
+      "timeframe": "Summer 2022",
+      "skills": "Python, DNN's, Generation Training, PyGame",
+      "content": "This project is a personal favorite of mine, and one I hope to someday work on more. Coming off an artificial intelligence course at UCSC, I wanted to make my own DNN and have it complete a digital race track. So I created a DNN by scratch (surprisingly simpler than one might think), created a system that would go through generations of DNN's and select and mutate the best few, created a little game where a car would have to drive through a track, and integrated the DNN with the game to provide the DNN with meaningful inputs and have it give outputs that would control the car. I hope to work on this project in the future, probably by using PyTorch and other libraries that could potentially give my program more power."
+    }, {
+      "title": "Unity 3D Engine Projects",
+      "subtitle": "Games Ranging from Proof-of-Concept to Small Published Games",
+      "timeframe": "2018-current",
+      "skills": "Unity Engine, C#, Algorithm Development, Shaders",
+      "content": "If I gave each of my Unity projects a seperate header and description, the scroll-wheel on your mouse might overheat. I have spent years working with Unity as my preferred 3D game engine. Whenever I desire to be a game developer in my spare time, I love to focus on building features and gimmicks into games that require a lot of coding and integration with the game world. I would spend a lot of time making game items like inventories, grappling guns, Legend of Zelda-esk spin tops, dash features, and other powerups and collectables. Through making these items, I gained a strong ability to solve abstract problems when there is no clear/correct solution. I find this skill extremely rewarding and valuable for my professional career."
+    },
+    {
+      "title": "YouTube Channel Development",
+      "subtitle": "Grew a Channel to Over 3000 Subscribers and 1.9 Million Views",
+      "timeframe": "2015-2021",
+      "skills": "Algodoo, Thyme (scripting), Story/Level Design, Editing",
+      "content": "For a while, I dedicated a significant amount of time to building up my main YouTube channel. I enjoyed putting in the grueling effort to make videos because of the positive feedback I received from my fans. I built and engaged with a community around my 'competitions'. Using a 2D physics simulation program, I created digital 'marble races' that fans would watch and cheer on their favorite color to. 'The Tacolian Warrior' consisted of my main content and was my biggest channel. 'Tacolian Productions' and 'Tacolian Gaming' were two smaller channels I created content for. Overall, I am very proud of the community I have built and the work that I have made."
+    },
+    {
+      "title": "Rank-Choice Voting Calculator",
+      "subtitle": "Created an Algorithm that Would Calculate the Winner of a Rank-Choice Election",
+      "timeframe": "March 2021",
+      "skills": "Python, Object Oriented Programming",
+      "content": "I spent a quick amount of time brushing up my python skills and creating an algorithm that would calculate the winner of a Rank-Choice election. This project was very simple but pretty fun too."
+    }
+  ],
+  "future": [
+    "Lang-Chain/LLM",
+    "Robot Operating System",
+    "Cybersecurity Certificates",
+    "More DNN Work Including Pattern Recognition",
+    "Published Full Stack Application"
+  ]
+}

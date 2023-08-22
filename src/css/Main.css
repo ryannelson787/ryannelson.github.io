@@ -1,0 +1,69 @@
+body {
+  overscroll-behavior-y: contain;
+}
+
+.Main {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  overflow-y: scroll;
+  text-align: center;
+
+  background-image: 
+    linear-gradient(30deg, #eeddff, #eeffff);
+  background-attachment: fixed;
+  color: black;
+}
+
+h1 {
+  font-size: 8em;
+  margin: 0;
+  padding-top: 0;
+}
+
+.Main-title {
+  padding-bottom: 10px;
+  background-image:
+    linear-gradient(-5deg, #eeddff, #eeeeff);
+}
+
+.Main-main {
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: center;
+}
+
+.Main-bottom {
+  padding: 1vh;
+}
+
+.tab-div {
+  height: 1%;
+  padding: 10px;
+}
+
+.desc-div {
+  font-size: 20px;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 12vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+  }
+
+  .Main-title {
+    padding-bottom: 0px;
+  }
+  
+  .Main-main {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .Main-bottom {
+    padding: 10vh;
+  }
+
+}
