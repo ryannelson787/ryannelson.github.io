@@ -1,43 +1,64 @@
 {
-  "cw_desc": "I am currently beginning my fourth year at the University of California, Santa Cruz, pursuing a major in Computer Science (B.S.) and a minor in Statistics. Over the past three years, I have accumulated a substantial foundation of knowledge and skills through my academic endeavors, which have significantly contributed to my growth as a proficient software engineer. I consistently uphold rigorous standards for my academic performance, maintaining a record of A grades throughout my courses, with only two exceptions. This commitment to excellence has not only driven my scholarly achievements but has also played a pivotal role in shaping me into a capable software engineer. Below, you can see the upper division CSE/STATS courses that I have taken.",
+  "cw_desc": "I am currently completing my fourth and final year at the University of California, Santa Cruz, pursuing a major in Computer Science (B.S.) and a minor in Statistics. Over the past few years, I have accumulated a substantial foundation of knowledge and skills through my academic endeavors, which have significantly contributed to my growth as a proficient software engineer. I consistently uphold rigorous standards for my academic performance, maintaining a record of A grades throughout my courses, with only two exceptions. This commitment to excellence has not only driven my scholarly achievements but has also played a pivotal role in shaping me into a capable software engineer. Below, you can see the upper division CSE/STATS courses that I have taken.",
   "courses": [
     {
-      "id": 0,
+      "id": 15,
+      "title": "CSE 132",
+      "desc": "Computer Security",
+      "grade": "A-",
+      "content": "This class was dense and tough. Half of the class was the theory behind modern cryptography, hacking, and other security principles. The other half was challenging but engaging 'capture-the-flag' assignments. These tested our knowledge by making us perform 'attacks' to gain a flag."
+    },
+    {
+      "id": 14,
+      "title": "CSE 115A",
+      "desc": "Software Engineering",
+      "grade": "A",
+      "content": "This class was dedicatd to creating and collaborating on a software project with a team of five students. Using SCRUM, we created a web application in two months with a plethora of features and capabilities. Find this project, CruzCards, on my GitHub."
+    },
+    {
+      "id": 13,
+      "title": "MATH 105A",
+      "desc": "Real Analysis",
+      "grade": "A+",
+      "content": "This class fulfilled an elective for my Statistics minor. Real Analysis focused on the study of the real number line. It was really fascinating to see how the number system we assume and use everyday can have such complicated definitions, constructions, and proofs."
+    },
+    {
+      "id": 12,
       "title": "STATS 132",
       "desc": "Classical and Bayonesian Inference",
       "grade": "A-",
       "content": "Taking a break from direct computer science, STATS 132 ended up being really fascinating. Learning about how random variables have best estimates, and those estimates have best estimates and distributions proved rather intriguing."
     },
     {
-      "id": 1,
+      "id": 11,
       "title": "CSE 113",
       "desc": "Parallel and Concurrent Programming",
       "grade": "A+",
       "content": "CSE 113 drilled down into how multiple CPU cores can safely work on the same data. With the class having fascinating theory, it also had good assignments that demonstrated how the theory actually can make programs safe and faster. A little bit of GPU programming also made it fun."
     },
     {
-      "id": 2,
+      "id": 10,
       "title": "CSE 130",
       "desc": "Computer Systems",
       "grade": "A",
       "content": "CSE 130 went over the theories behind building good abstractions and communication between multiple computer systems working together. While the lectures were theory rich, the programming assignments were tough and forced me to write good C code."
     },
     {
-      "id": 3,
+      "id": 9,
       "title": "CSE 186",
       "desc": "Full Stack Web Development",
       "grade": "B+",
       "content": "Tied for the most difficult class I have ever taken, CSE 186 taught me a lot about web development. Using the NERP/PERN stack (React, Express, Node, Postgres), weekly tough assignments drilled these libraries/resources into my skill set."
     },
     {
-      "id": 4,
+      "id": 8,
       "title": "CSE 118",
       "desc": "Mobile Development",
       "grade": "B+",
       "content": "Tied for the most difficult class I have ever taken, CSE 118 forced me to learn a lot. We only spent 3 weeks learning about Kotlin, Swift, and React Native each. However, doing extremely rigorous and tedious weekly projects certainly made me feel confident in my proficiency in all three."
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "CSE 160",
       "desc": "Computer Graphics",
       "grade": "A",
@@ -51,42 +72,42 @@
       "content": "CSE 142 served its purpose, which was to simply teach the basics of artificial intelligence. It was great to get to the last section about deep learning and neural networks, which inspired me to do my own work with it."
     },
     {
-      "id": 7,
+      "id": 5,
       "title": "CSE 110A",
       "desc": "Compiler Design",
       "grade": "A+",
       "content": "CSE 110A might be my favorite class I have taken. I loved learning about the steps it takes to convert the funny words I type in VS Code (or VIM) into executable assembly."
     },
     {
-      "id": 8,
+      "id": 4,
       "title": "CSE 102",
       "desc": "Analysis of Algorithms",
       "grade": "A-",
       "content": "CSE 102 was both a really difficult class and a really rewarding class. Each homework question would take hours to finish, but knowing that you produced a successful result made it worth it."
     },
     {
-      "id": 9,
+      "id": 3,
       "title": "CSE 103",
       "desc": "Computational Models",
       "grade": "A",
       "content": "CSE 103 focused solely on mathematical/theoretical models that so much of the computer science world is built on. Learning about regular expressions and context free grammars set me up well to learn about compilers and more."
     },
     {
-      "id": 10,
+      "id": 2,
       "title": "CSE 101",
       "desc": "Data Structures and Algorithms",
       "grade": "A+",
       "content": "CSE 101 is the standard Data Structures and Algorithms class that every computer science student will take. I very much enjoyed tackling the assignment projects. I also liked the more formal introductions to the data structures I already knew."
     },
     {
-      "id": 11,
+      "id": 1,
       "title": "CSE 120",
       "desc": "Computer Architecture",
       "grade": "A",
       "content": "One of my favorite classes I have taken, CSE 120 taught the basics of computer architecture using RISC-V. The topic of CPU stage pipelining was vastly intriguing for me and I thoroughly enjoyed the subject."
     },
     {
-      "id": 12,
+      "id": 0,
       "title": "STATS 131",
       "desc": "Probability Theory",
       "grade": "A",
